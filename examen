@@ -1,0 +1,28 @@
+Ejercicio: Pago de renta de una casa
+
+1 a 6 meses: $2000 mensual
+7 a 12 meses:$1000 mensual
+13 meses o mas: $800 mensual
+
+
+
+|DATO A PONER|VALOR ESPERADO|
+   -2          no es posible
+   5           $2000 mensual
+   10          $1000 mensual
+   18          $800 mensual
+   
+   valores limite:
+   
+  rango |respuesta|
+   0    |invalido |
+   1    | $2000   |
+   7    | $1000   | 
+   13   | $800    |
+   
+   
+   
+   Es prueba de unidad: por que cada valor que se ingresa se esta probando de manera indivudal para ver el resutlado posible y
+   no se hace con todos en conjunto.
+   
+  
